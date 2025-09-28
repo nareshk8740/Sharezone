@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="100" viewBox="0 0 400 100" fill="none">
+  <!-- Proper Lightning Icon -->
+  <path d="M30 10 L55 45 H35 L65 90 L30 50 H50 L30 10 Z" fill="#5A32F2"/>
+  <!-- Text -->
+  <text x="110" y="65" font-family="Arial, sans-serif" font-size="42" font-weight="600" fill="#5A32F2">
+    Sharezone
+  </text>
+</svg>
